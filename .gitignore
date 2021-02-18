@@ -1,0 +1,10 @@
+# Project exclude paths
+/.gradle/
+/Problems/A small version of the Battleship game/build/
+/Problems/Balance checker/build/
+/Problems/Beyond the word/build/
+/Problems/Boxes/build/
+/Problems/Car price/build/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/production/classes/

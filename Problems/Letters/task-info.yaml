@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main() {
+        val letters = mutableMapOf<? ,?>()
+
+        print(letters[?])
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8028
+status: Solved
+feedback:
+  message: |-
+    <html>[+] Test #1. OK
+    [+] Test #2. OK
+
+    2 of 2 test(s) passed.<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8028">JetBrains Academy</a></html>
+  time: Sun, 09 Aug 2020 19:33:29 UTC
+record: -1

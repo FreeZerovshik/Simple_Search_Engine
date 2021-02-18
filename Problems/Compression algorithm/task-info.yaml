@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: "fun main() {\n    // write your code here    \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9038
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9038">JetBrains
+    Academy</a></html>
+  time: Sun, 18 Oct 2020 11:37:25 UTC
+record: -1

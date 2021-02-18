@@ -1,0 +1,13 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: "fun main() {\n    // write your code here    \n}"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9041
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9041">JetBrains
+    Academy</a></html>
+  time: Thu, 30 Jul 2020 06:47:28 UTC
+record: -1

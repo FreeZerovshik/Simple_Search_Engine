@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    fun main() {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8543
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/8543">JetBrains
+    Academy</a></html>
+  time: Tue, 28 Jul 2020 20:39:29 UTC
+record: -1

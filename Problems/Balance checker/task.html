@@ -1,0 +1,19 @@
+<h2>Balance checker</h2>
+<html>
+ <head></head>
+ <body>
+  <p>Your task is to create an algorithm that prevents e-wallet accounts of your customers to go below zero.</p> 
+  <p> </p> 
+  <p>Input contains:</p> 
+  <ol> 
+   <li>On the first line, there is a single integer number which is the initial amount of money on the account.</li> 
+   <li>The second line contains a sequence of purchases (integer numbers in a row).</li> 
+  </ol> 
+  <p>Output contains:</p> 
+  <ol> 
+   <li>If there is no money for the purchase: "Error, insufficient funds for the purchase. You have N, but you need M." where N is the amount of money on the account at the moment, M is the amount of money you wanted to spend.</li> 
+   <li>If there is enough money for all purchases, print this: "Thank you for choosing us to manage your account! You have N money.", where N is the amount of money after all purchases.</li> 
+  </ol>
+ </body>
+</html><br><b>Sample Input:</b><br><pre><code class="language-no-highlight">10000<br>5000 3000</code></pre><br><b>Sample Output:</b><br><pre><code class="language-no-highlight">Thank you for choosing us to manage your account! You have 2000 money.</code></pre><br><br><b>Sample Input:</b><br><pre><code class="language-no-highlight">1000<br>500 500</code></pre><br><b>Sample Output:</b><br><pre><code class="language-no-highlight">Thank you for choosing us to manage your account! You have 0 money.</code></pre><br><br><b>Sample Input:</b><br><pre><code class="language-no-highlight">5000<br>500 2000 3000</code></pre><br><b>Sample Output:</b><br><pre><code class="language-no-highlight">Error, insufficient funds for the purchase. You have 2500, but you need 3000.</code></pre><br><br><br><font color="gray">Memory limit: 256 MB</font><br><font color="gray">Time limit: 8 seconds</font><br><br>
+<a href="https://hyperskill.org/learn/step/4659">Show topic summary</a>

@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun solution(strings: List<String>, str: String): Int {
+        // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10738
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10738">JetBrains
+    Academy</a></html>
+  time: Sun, 18 Oct 2020 14:50:04 UTC
+record: -1
